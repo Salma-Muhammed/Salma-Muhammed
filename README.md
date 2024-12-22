@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Salma-Muhammad
+# 👋 Hi, I’m @Salma-Muhammed
 
 - 👀 I’m interested in crafting efficient back-end solutions, building APIs, and creating innovative web applications. 
 - 🌱 I’m learning advanced .NET development, API creation, and documentation.  
